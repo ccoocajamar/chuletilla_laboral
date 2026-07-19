@@ -1,0 +1,12 @@
+{
+  "main_text_sha256_version_anterior": "ec0cd957b5dc6d22f19ec42fc2314471cafe857f1363459cce5616f46ecd3040",
+  "main_text_sha256_version_legible": "ec0cd957b5dc6d22f19ec42fc2314471cafe857f1363459cce5616f46ecd3040",
+  "identical": true,
+  "text_chars_version_anterior": 12720,
+  "text_chars_version_legible": 12720,
+  "changes": [
+    "Aumento selectivo de tipografía en tablas móviles con espacio disponible",
+    "Tamaños compactos conservados en salario, SSCC y promoción",
+    "Sin cambios en textos, cifras, estructura documental ni PDF oficial"
+  ]
+}
